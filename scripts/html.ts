@@ -17,6 +17,7 @@ $("/html") {
   # lateload()
   
 
+	$$("img") { attribute("src", "http://bit.ly/ZroLAZ") }
 
 
   add_assets()
